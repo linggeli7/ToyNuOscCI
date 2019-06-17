@@ -1,6 +1,6 @@
 # ToyNuOscCI
 
-Toy Feldman-Cousins Study for Neutrino Oscillations 
+Toy Feldman-Cousins Study for Neutrino Oscillations https://arxiv.org/abs/1811.07050
 
 ## Physics / Feldman-Cousins
 
